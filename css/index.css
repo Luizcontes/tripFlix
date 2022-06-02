@@ -1,0 +1,71 @@
+@import url('reset.css');
+@import url('style.css');
+@import url('covers.css');
+
+#principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;  
+    padding: 25px;  
+}
+
+#principal h3 {
+    font-size: 30px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+
+#principal p {
+    width: 500px;
+    margin: 15px 0;  
+    background: linear-gradient(rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.5)100%);
+    
+}
+
+.botao {
+    border: none;
+    height: 40px;
+    margin-right: 8px;
+    width: 200px;
+    background-color: white;
+    font-size: 15px;
+}
+
+.botao:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.fa-solid {
+    margin: 8px;
+}
+
+.item {
+    height: 300px;
+    overflow: hidden;
+    transition: opacity 300ms;
+}
+
+.item:hover {
+    border: solid;
+    opacity: 0.5;
+    
+}
+
+.carrosel-filmes {
+    margin-top: 7px;
+    margin-right: 3px;
+}
+
+.lista {
+    height: 85%;
+}
+
+.box-filme {
+    height: 140%;
+    width: 100%;
+    display: block;
+    margin: -55px 0;
+}

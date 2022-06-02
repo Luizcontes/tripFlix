@@ -1,0 +1,14 @@
+@import url('reset.css');
+@import url('style.css');
+
+.iframe-container {
+    width: 90%;
+    height: 60vh;
+    margin: 5vh auto;
+}
+
+.iframe-container iframe {
+    width: 100%;
+    height: 100%;
+
+}

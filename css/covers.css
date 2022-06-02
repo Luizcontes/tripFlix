@@ -1,0 +1,59 @@
+.bg0 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover0.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg1 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover1.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg2 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover2.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg3 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover3.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg4 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover4.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg5 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover5.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg6 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover6.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg7 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover7.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg8 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover8.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
+
+.bg9 {
+    background: linear-gradient(rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3)100%), url("/home/luizcontes/Programming/Projetos/tripFlix/img/covers/cover9.jpg");    
+    height: 55vh;
+    background-size: 100% 100% ;
+}
