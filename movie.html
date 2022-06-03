@@ -8,9 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <link rel="stylesheet" href="css/movie.css">
+    <script src="js/movie.js"></script>
 </head>
 
-<body>
+<body onload="loaded()">
     <header>
         <div class="container">
             <div class="logo">
@@ -28,7 +29,7 @@
     </header>
 
     <div class="iframe-container">
-        <iframe src="https://www.youtube.com/embed/KWViw31ehxE" title="YouTube video player" frameborder="0"
+        <iframe id="quadro" src="" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
     </div>

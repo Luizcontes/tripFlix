@@ -45,13 +45,14 @@
 .item {
     height: 300px;
     overflow: hidden;
+    padding: 3px;
     transition: opacity 300ms;
 }
 
 .item:hover {
-    border: solid;
+    padding: 0;
+    border: solid 3px;
     opacity: 0.5;
-    
 }
 
 .carrosel-filmes {
@@ -67,5 +68,5 @@
     height: 140%;
     width: 100%;
     display: block;
-    margin: -55px 0;
+    margin: -57px 0;
 }
